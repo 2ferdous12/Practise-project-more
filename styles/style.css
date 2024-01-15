@@ -247,8 +247,9 @@ footer .footer-section p{
 
 @media screen and (max-width:576px) {
     nav h3 {
-   font-size: 30px;
-   color: orange;
+   font-size: 40px;
+   color: rgb(134, 97, 221);
+   margin-bottom: 20px;
     }
     nav{
         flex-direction: column;
@@ -278,7 +279,7 @@ padding: 0px;
     }
 
     header{
-        padding: 50px 120px;
+        padding: 20px 120px ;
     }
 
     .amazon-container img{
